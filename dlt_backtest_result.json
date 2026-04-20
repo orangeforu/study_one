@@ -1,0 +1,156 @@
+[
+  {
+    "strategy": "守冷号",
+    "total_bet": 3000,
+    "total_prize": 4090,
+    "prize_count": 496,
+    "prize_details": {
+      "九等奖": 426,
+      "八等奖": 64,
+      "六等奖": 2,
+      "七等奖": 3,
+      "五等奖": 1
+    },
+    "front_hit_distribution": {
+      "2": 380,
+      "1": 1218,
+      "0": 1335,
+      "3": 65,
+      "4": 2
+    },
+    "back_hit_distribution": {
+      "0": 2022,
+      "1": 925,
+      "2": 53
+    },
+    "hit_rate": 16.53333333333333,
+    "roi": -31.833333333333336
+  },
+  {
+    "strategy": "频率加权",
+    "total_bet": 3000,
+    "total_prize": 4030,
+    "prize_count": 475,
+    "prize_details": {
+      "八等奖": 40,
+      "九等奖": 426,
+      "七等奖": 6,
+      "六等奖": 2,
+      "五等奖": 1
+    },
+    "front_hit_distribution": {
+      "1": 1214,
+      "0": 1346,
+      "3": 41,
+      "2": 397,
+      "4": 2
+    },
+    "back_hit_distribution": {
+      "0": 2083,
+      "1": 875,
+      "2": 42
+    },
+    "hit_rate": 15.833333333333332,
+    "roi": -32.83333333333333
+  },
+  {
+    "strategy": "奇偶平衡",
+    "total_bet": 3000,
+    "total_prize": 3755,
+    "prize_count": 498,
+    "prize_details": {
+      "九等奖": 448,
+      "八等奖": 41,
+      "七等奖": 9
+    },
+    "front_hit_distribution": {
+      "1": 1250,
+      "0": 1296,
+      "2": 413,
+      "3": 41
+    },
+    "back_hit_distribution": {
+      "0": 2037,
+      "1": 910,
+      "2": 53
+    },
+    "hit_rate": 16.6,
+    "roi": -37.416666666666664
+  },
+  {
+    "strategy": "追热号",
+    "total_bet": 3000,
+    "total_prize": 3520,
+    "prize_count": 433,
+    "prize_details": {
+      "九等奖": 394,
+      "八等奖": 30,
+      "七等奖": 7,
+      "六等奖": 2
+    },
+    "front_hit_distribution": {
+      "1": 1335,
+      "2": 368,
+      "0": 1265,
+      "3": 31,
+      "4": 1
+    },
+    "back_hit_distribution": {
+      "0": 2127,
+      "1": 832,
+      "2": 41
+    },
+    "hit_rate": 14.433333333333334,
+    "roi": -41.333333333333336
+  },
+  {
+    "strategy": "和值约束",
+    "total_bet": 3000,
+    "total_prize": 3375,
+    "prize_count": 479,
+    "prize_details": {
+      "九等奖": 435,
+      "八等奖": 40,
+      "七等奖": 3,
+      "五等奖": 1
+    },
+    "front_hit_distribution": {
+      "0": 1318,
+      "2": 399,
+      "1": 1242,
+      "3": 40,
+      "4": 1
+    },
+    "back_hit_distribution": {
+      "0": 2037,
+      "1": 921,
+      "2": 42
+    },
+    "hit_rate": 15.966666666666669,
+    "roi": -43.75
+  },
+  {
+    "strategy": "随机选号",
+    "total_bet": 3000,
+    "total_prize": 3090,
+    "prize_count": 432,
+    "prize_details": {
+      "九等奖": 390,
+      "八等奖": 36,
+      "七等奖": 6
+    },
+    "front_hit_distribution": {
+      "0": 1304,
+      "1": 1299,
+      "2": 361,
+      "3": 36
+    },
+    "back_hit_distribution": {
+      "0": 2053,
+      "1": 906,
+      "2": 41
+    },
+    "hit_rate": 14.399999999999999,
+    "roi": -48.5
+  }
+]
