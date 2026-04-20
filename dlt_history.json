@@ -1,0 +1,632 @@
+[
+  {
+    "issue_number": "26041",
+    "front_balls": [
+      "24",
+      "25",
+      "27",
+      "29",
+      "34"
+    ],
+    "back_balls": [
+      "02",
+      "06"
+    ],
+    "pool_amount": "804564900",
+    "first_prize_count": "6",
+    "first_prize_amount": "8170700",
+    "second_prize_count": "94",
+    "second_prize_amount": "230708",
+    "total_bet": "342918690",
+    "draw_date": "2026-04-18"
+  },
+  {
+    "issue_number": "26040",
+    "front_balls": [
+      "06",
+      "12",
+      "13",
+      "21",
+      "34"
+    ],
+    "back_balls": [
+      "08",
+      "09"
+    ],
+    "pool_amount": "776038689",
+    "first_prize_count": "6",
+    "first_prize_amount": "7492423",
+    "second_prize_count": "118",
+    "second_prize_amount": "125628",
+    "total_bet": "322412866",
+    "draw_date": "2026-04-15"
+  },
+  {
+    "issue_number": "26039",
+    "front_balls": [
+      "09",
+      "11",
+      "20",
+      "26",
+      "27"
+    ],
+    "back_balls": [
+      "06",
+      "09"
+    ],
+    "pool_amount": "760888094",
+    "first_prize_count": "11",
+    "first_prize_amount": "5717710",
+    "second_prize_count": "175",
+    "second_prize_amount": "50714",
+    "total_bet": "321747230",
+    "draw_date": "2026-04-13"
+  },
+  {
+    "issue_number": "26038",
+    "front_balls": [
+      "08",
+      "17",
+      "21",
+      "33",
+      "35"
+    ],
+    "back_balls": [
+      "06",
+      "07"
+    ],
+    "pool_amount": "799997856",
+    "first_prize_count": "2",
+    "first_prize_amount": "10000000",
+    "second_prize_count": "174",
+    "second_prize_amount": "92288",
+    "total_bet": "343632778",
+    "draw_date": "2026-04-11"
+  },
+  {
+    "issue_number": "26037",
+    "front_balls": [
+      "07",
+      "12",
+      "13",
+      "28",
+      "32"
+    ],
+    "back_balls": [
+      "06",
+      "08"
+    ],
+    "pool_amount": "756781636",
+    "first_prize_count": "5",
+    "first_prize_amount": "8402519",
+    "second_prize_count": "133",
+    "second_prize_amount": "119807",
+    "total_bet": "324524682",
+    "draw_date": "2026-04-08"
+  },
+  {
+    "issue_number": "26036",
+    "front_balls": [
+      "04",
+      "07",
+      "16",
+      "26",
+      "32"
+    ],
+    "back_balls": [
+      "05",
+      "08"
+    ],
+    "pool_amount": "732445105",
+    "first_prize_count": "9",
+    "first_prize_amount": "6291520",
+    "second_prize_count": "114",
+    "second_prize_amount": "106441",
+    "total_bet": "298882570",
+    "draw_date": "2026-04-06"
+  },
+  {
+    "issue_number": "26035",
+    "front_balls": [
+      "02",
+      "22",
+      "30",
+      "33",
+      "34"
+    ],
+    "back_balls": [
+      "08",
+      "12"
+    ],
+    "pool_amount": "744740092",
+    "first_prize_count": "11",
+    "first_prize_amount": "6715340",
+    "second_prize_count": "91",
+    "second_prize_amount": "180483",
+    "total_bet": "324023066",
+    "draw_date": "2026-04-04"
+  },
+  {
+    "issue_number": "26034",
+    "front_balls": [
+      "11",
+      "12",
+      "25",
+      "26",
+      "27"
+    ],
+    "back_balls": [
+      "08",
+      "11"
+    ],
+    "pool_amount": "745020716",
+    "first_prize_count": "6",
+    "first_prize_amount": "6785341",
+    "second_prize_count": "215",
+    "second_prize_amount": "59275",
+    "total_bet": "321281232",
+    "draw_date": "2026-04-01"
+  },
+  {
+    "issue_number": "26033",
+    "front_balls": [
+      "03",
+      "05",
+      "07",
+      "09",
+      "18"
+    ],
+    "back_balls": [
+      "02",
+      "10"
+    ],
+    "pool_amount": "743671788",
+    "first_prize_count": "12",
+    "first_prize_amount": "5620374",
+    "second_prize_count": "250",
+    "second_prize_amount": "29556",
+    "total_bet": "319640788",
+    "draw_date": "2026-03-30"
+  },
+  {
+    "issue_number": "26032",
+    "front_balls": [
+      "03",
+      "04",
+      "19",
+      "26",
+      "32"
+    ],
+    "back_balls": [
+      "01",
+      "12"
+    ],
+    "pool_amount": "787204236",
+    "first_prize_count": "6",
+    "first_prize_amount": "8149825",
+    "second_prize_count": "141",
+    "second_prize_amount": "117451",
+    "total_bet": "342713464",
+    "draw_date": "2026-03-28"
+  },
+  {
+    "issue_number": "26031",
+    "front_balls": [
+      "06",
+      "08",
+      "22",
+      "29",
+      "34"
+    ],
+    "back_balls": [
+      "05",
+      "07"
+    ],
+    "pool_amount": "762397268",
+    "first_prize_count": "9",
+    "first_prize_amount": "7576500",
+    "second_prize_count": "82",
+    "second_prize_amount": "285678",
+    "total_bet": "321190415",
+    "draw_date": "2026-03-25"
+  },
+  {
+    "issue_number": "26030",
+    "front_balls": [
+      "02",
+      "13",
+      "22",
+      "28",
+      "34"
+    ],
+    "back_balls": [
+      "05",
+      "12"
+    ],
+    "pool_amount": "801741817",
+    "first_prize_count": "8",
+    "first_prize_amount": "7605701",
+    "second_prize_count": "97",
+    "second_prize_amount": "179985",
+    "total_bet": "316922568",
+    "draw_date": "2026-03-23"
+  },
+  {
+    "issue_number": "26029",
+    "front_balls": [
+      "03",
+      "05",
+      "17",
+      "33",
+      "35"
+    ],
+    "back_balls": [
+      "05",
+      "07"
+    ],
+    "pool_amount": "834276730",
+    "first_prize_count": "6",
+    "first_prize_amount": "7877022",
+    "second_prize_count": "144",
+    "second_prize_amount": "115812",
+    "total_bet": "337467964",
+    "draw_date": "2026-03-21"
+  },
+  {
+    "issue_number": "26028",
+    "front_balls": [
+      "15",
+      "27",
+      "29",
+      "30",
+      "34"
+    ],
+    "back_balls": [
+      "01",
+      "10"
+    ],
+    "pool_amount": "861344046",
+    "first_prize_count": "1",
+    "first_prize_amount": "10000000",
+    "second_prize_count": "63",
+    "second_prize_amount": "280368",
+    "total_bet": "303460918",
+    "draw_date": "2026-03-18"
+  },
+  {
+    "issue_number": "26027",
+    "front_balls": [
+      "09",
+      "10",
+      "11",
+      "12",
+      "16"
+    ],
+    "back_balls": [
+      "01",
+      "11"
+    ],
+    "pool_amount": "799972392",
+    "first_prize_count": "7",
+    "first_prize_amount": "6985349",
+    "second_prize_count": "166",
+    "second_prize_amount": "86031",
+    "total_bet": "307838475",
+    "draw_date": "2026-03-16"
+  },
+  {
+    "issue_number": "26026",
+    "front_balls": [
+      "10",
+      "11",
+      "22",
+      "26",
+      "32"
+    ],
+    "back_balls": [
+      "01",
+      "08"
+    ],
+    "pool_amount": "794063794",
+    "first_prize_count": "3",
+    "first_prize_amount": "9638333",
+    "second_prize_count": "119",
+    "second_prize_amount": "145339",
+    "total_bet": "330044286",
+    "draw_date": "2026-03-14"
+  },
+  {
+    "issue_number": "26025",
+    "front_balls": [
+      "03",
+      "15",
+      "24",
+      "28",
+      "29"
+    ],
+    "back_balls": [
+      "03",
+      "07"
+    ],
+    "pool_amount": "761949362",
+    "first_prize_count": "10",
+    "first_prize_amount": "5872341",
+    "second_prize_count": "147",
+    "second_prize_amount": "62745",
+    "total_bet": "299297449",
+    "draw_date": "2026-03-11"
+  },
+  {
+    "issue_number": "26024",
+    "front_balls": [
+      "02",
+      "04",
+      "08",
+      "10",
+      "21"
+    ],
+    "back_balls": [
+      "09",
+      "12"
+    ],
+    "pool_amount": "790603787",
+    "first_prize_count": "3",
+    "first_prize_amount": "9889639",
+    "second_prize_count": "138",
+    "second_prize_amount": "87504",
+    "total_bet": "293616732",
+    "draw_date": "2026-03-09"
+  },
+  {
+    "issue_number": "26023",
+    "front_balls": [
+      "09",
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "back_balls": [
+      "01",
+      "08"
+    ],
+    "pool_amount": "763063925",
+    "first_prize_count": "6",
+    "first_prize_amount": "7177297",
+    "second_prize_count": "109",
+    "second_prize_amount": "138525",
+    "total_bet": "323009849",
+    "draw_date": "2026-03-07"
+  },
+  {
+    "issue_number": "26022",
+    "front_balls": [
+      "05",
+      "09",
+      "10",
+      "18",
+      "26"
+    ],
+    "back_balls": [
+      "05",
+      "06"
+    ],
+    "pool_amount": "753076288",
+    "first_prize_count": "10",
+    "first_prize_amount": "5746008",
+    "second_prize_count": "261",
+    "second_prize_amount": "27678",
+    "total_bet": "294728612",
+    "draw_date": "2026-03-04"
+  },
+  {
+    "issue_number": "26021",
+    "front_balls": [
+      "05",
+      "08",
+      "12",
+      "14",
+      "17"
+    ],
+    "back_balls": [
+      "04",
+      "05"
+    ],
+    "pool_amount": "783711295",
+    "first_prize_count": "7",
+    "first_prize_amount": "6463717",
+    "second_prize_count": "161",
+    "second_prize_amount": "73420",
+    "total_bet": "291691198",
+    "draw_date": "2026-03-02"
+  },
+  {
+    "issue_number": "26020",
+    "front_balls": [
+      "01",
+      "10",
+      "21",
+      "23",
+      "29"
+    ],
+    "back_balls": [
+      "10",
+      "12"
+    ],
+    "pool_amount": "823831821",
+    "first_prize_count": "3",
+    "first_prize_amount": "10000000",
+    "second_prize_count": "77",
+    "second_prize_amount": "219344",
+    "total_bet": "319278064",
+    "draw_date": "2026-02-28"
+  },
+  {
+    "issue_number": "26019",
+    "front_balls": [
+      "12",
+      "13",
+      "14",
+      "16",
+      "31"
+    ],
+    "back_balls": [
+      "04",
+      "12"
+    ],
+    "pool_amount": "780263624",
+    "first_prize_count": "8",
+    "first_prize_amount": "7528120",
+    "second_prize_count": "72",
+    "second_prize_amount": "275339",
+    "total_bet": "356165890",
+    "draw_date": "2026-02-25"
+  },
+  {
+    "issue_number": "26018",
+    "front_balls": [
+      "09",
+      "11",
+      "19",
+      "30",
+      "35"
+    ],
+    "back_balls": [
+      "01",
+      "12"
+    ],
+    "pool_amount": "761611231",
+    "first_prize_count": "7",
+    "first_prize_amount": "6692203",
+    "second_prize_count": "86",
+    "second_prize_amount": "208790",
+    "total_bet": "349431305",
+    "draw_date": "2026-02-11"
+  },
+  {
+    "issue_number": "26017",
+    "front_balls": [
+      "04",
+      "05",
+      "10",
+      "23",
+      "31"
+    ],
+    "back_balls": [
+      "07",
+      "12"
+    ],
+    "pool_amount": "762704025",
+    "first_prize_count": "6",
+    "first_prize_amount": "7044236",
+    "second_prize_count": "104",
+    "second_prize_amount": "141471",
+    "total_bet": "314171855",
+    "draw_date": "2026-02-09"
+  },
+  {
+    "issue_number": "26016",
+    "front_balls": [
+      "08",
+      "09",
+      "12",
+      "19",
+      "24"
+    ],
+    "back_balls": [
+      "01",
+      "06"
+    ],
+    "pool_amount": "755649052",
+    "first_prize_count": "13",
+    "first_prize_amount": "5925957",
+    "second_prize_count": "243",
+    "second_prize_amount": "50303",
+    "total_bet": "333666762",
+    "draw_date": "2026-02-07"
+  },
+  {
+    "issue_number": "26015",
+    "front_balls": [
+      "01",
+      "04",
+      "10",
+      "13",
+      "17"
+    ],
+    "back_balls": [
+      "03",
+      "11"
+    ],
+    "pool_amount": "829148796",
+    "first_prize_count": "4",
+    "first_prize_amount": "9339920",
+    "second_prize_count": "98",
+    "second_prize_amount": "175350",
+    "total_bet": "310086553",
+    "draw_date": "2026-02-04"
+  },
+  {
+    "issue_number": "26014",
+    "front_balls": [
+      "16",
+      "18",
+      "23",
+      "34",
+      "35"
+    ],
+    "back_balls": [
+      "01",
+      "06"
+    ],
+    "pool_amount": "842732986",
+    "first_prize_count": "2",
+    "first_prize_amount": "10000000",
+    "second_prize_count": "81",
+    "second_prize_amount": "242159",
+    "total_bet": "318884035",
+    "draw_date": "2026-02-02"
+  },
+  {
+    "issue_number": "26013",
+    "front_balls": [
+      "03",
+      "05",
+      "06",
+      "23",
+      "26"
+    ],
+    "back_balls": [
+      "01",
+      "04"
+    ],
+    "pool_amount": "782886373",
+    "first_prize_count": "10",
+    "first_prize_amount": "6149358",
+    "second_prize_count": "409",
+    "second_prize_amount": "26110",
+    "total_bet": "350779828",
+    "draw_date": "2026-01-31"
+  },
+  {
+    "issue_number": "26012",
+    "front_balls": [
+      "01",
+      "02",
+      "09",
+      "22",
+      "25"
+    ],
+    "back_balls": [
+      "01",
+      "06"
+    ],
+    "pool_amount": "799554979",
+    "first_prize_count": "5",
+    "first_prize_amount": "6986204",
+    "second_prize_count": "131",
+    "second_prize_amount": "102374",
+    "total_bet": "318917948",
+    "draw_date": "2026-01-28"
+  }
+]

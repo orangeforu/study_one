@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:chart.tencentmusic.com)",
+      "WebFetch(domain:max.book118.com)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && python book118_scraper.py)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && pip install -r requirements.txt)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && pip install selenium Pillow img2pdf)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && python book118_pdf_scraper.py)",
+      "Bash(pip install:*)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one/output_pdfs && ls -la *.pdf)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && python debug_structure.py)",
+      "Bash(cd D:/SoftWare/User/Vs/study_one && python book118_pdf_scraper_v2.py)",
+      "WebFetch(domain:www.lottery.gov.cn)",
+      "Bash(python dlottery_scraper.py)",
+      "Bash(python dlottery_api_test.py)",
+      "WebFetch(domain:www.zhcw.com)",
+      "WebFetch(domain:api.aa1.cn)",
+      "Bash(python dlottery_v2.py)",
+      "Bash(python dlt_500_scraper.py)",
+      "Bash(python dlt_final_scraper.py)",
+      "Bash(python dlt_fetch_more.py)",
+      "Bash(git rm:*)"
+    ]
+  }
+}
